@@ -1,0 +1,7 @@
+{
+  "name": "ionic-celocia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
